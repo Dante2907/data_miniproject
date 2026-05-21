@@ -1,0 +1,2 @@
+system:index,consumer_accuracy,kappa,matrix,note,overall_accuracy,producer_accuracy,validation_type,.geo
+0,"[0.7688022284122563, 0.8136511375947996]",0.579,"[[828, 172], [249, 751]]",val pts buffered 100m from train pts,0.7895,"[0.828, 0.751]",external_vs_Forest_indep,"{""type"":""MultiPoint"",""coordinates"":[]}"

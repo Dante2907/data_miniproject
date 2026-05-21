@@ -1,0 +1,3 @@
+system:index,detection_rate,forest_type,.geo
+0,0.7080808720193456,Deciduous_Forest,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,0.7676933474167851,Evergreen_Forest,"{""type"":""MultiPoint"",""coordinates"":[]}"

@@ -1,0 +1,2 @@
+system:index,MAE_Mg_ha,R2,RMSE_Mg_ha,mean_observed,n_test,n_train,validation_type,.geo
+0,43.40087351440021,0.5489066590341867,56.4125210344884,145.844954184462,1006,2260,agb_70_30_holdout,"{""type"":""MultiPoint"",""coordinates"":[]}"

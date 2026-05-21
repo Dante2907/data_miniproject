@@ -1,0 +1,2 @@
+system:index,consumer_accuracy,kappa,matrix,overall_accuracy,producer_accuracy,validation_type,.geo
+0,"[0.7988056959118053, 0.7302702702702702]",0.5303894123587282,"[[1739, 499], [438, 1351]]",0.7673205860442016,"[0.7770330652368186, 0.7551704863051985]",internal_70_30_2yr_stack,"{""type"":""MultiPoint"",""coordinates"":[]}"
